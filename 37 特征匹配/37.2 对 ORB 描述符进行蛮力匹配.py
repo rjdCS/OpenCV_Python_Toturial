@@ -33,9 +33,7 @@ matches = bf.match(des1, des2)
 matches = sorted(matches,  key=lambda x:x.distance)
 
 
-
-temp = None
-img3 = cv2.drawMatches(img1, kp1, img2, kp2, matches[:10], outImg=temp, flags=2)
+img3 = cv2.drawMatches(img1, kp1, img2, kp2, matches[:10], outImg=None, flags=2)
 
 plt.imshow(img3)
 plt.show()

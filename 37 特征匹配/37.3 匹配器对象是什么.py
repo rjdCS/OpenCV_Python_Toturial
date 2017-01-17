@@ -18,7 +18,8 @@ img1 = cv2.imread(PATH+'box.png', 0) # queryImage
 img2 = cv2.imread(PATH+'box_in_scene.png', 0) # trainImage
 
 # Initiate SIFT detector
-sift = cv2.SIFT()
+# sift = cv2.SIFT()
+sift = cv2.xfeatures2d.SIFT_create()    # for opencv-3.2.0
 
 # find the keypoints and descriptors with SIFT
 kp1,  des1 = sift.detectAndCompute(img1, None)
@@ -37,7 +38,7 @@ for m, n in matches:
         good.append([m])
 
 # cv2.drawMatchesKnn expects list of lists as matches.
-img3 = cv2.drawMatchesKnn(img1, kp1, img2, kp2, good[:10], flags=2)
+img3 = cv2.drawMatchesKnn(img1, kp1, img2, kp2, good[:10], outImg=None, flags=2)
 
 plt.imshow(img3)
 plt.show()
