@@ -1,4 +1,4 @@
-#coding=utf-8
+# coding=utf-8
 """
 分水岭算法图像分割
 目标
@@ -24,7 +24,7 @@ cv2.destroyAllWindows()
 
 # noise removal
 kernel = np.ones((3, 3), np.uint8)
-opening = cv2.morphologyEx(thresh,cv2.MORPH_OPEN, kernel, iterations=2)
+opening = cv2.morphologyEx(thresh, cv2.MORPH_OPEN, kernel, iterations=2)
 
 # sure background area
 sure_bg = cv2.dilate(opening, kernel, iterations=3)
@@ -36,8 +36,8 @@ sure_bg = cv2.dilate(opening, kernel, iterations=3)
 # 距离。根据各个像素点的距离值，设置为不同的灰度值。这样就完成了二值图像的距离变换
 #cv2.distanceTransform(src, distanceType, maskSize)
 # 第二个参数 0,1,2 分别表示 CV_DIST_L1, CV_DIST_L2 , CV_DIST_C
-dist_transform = cv2.distanceTransform(opening, 1,5)
-ret, sure_fg = cv2.threshold(dist_transform, 0.7*dist_transform.max(), 255, 0)
+dist_transform = cv2.distanceTransform(opening, 1, 5)
+ret, sure_fg = cv2.threshold(dist_transform, 0.7 * dist_transform.max(), 255, 0)
 
 # Finding unknown region
 sure_fg = np.uint8(sure_fg)
@@ -47,13 +47,13 @@ unknown = cv2.subtract(sure_bg, sure_fg)
 ret, markers1 = cv2.connectedComponents(sure_fg)
 
 # Add one to all labels so that sure background is not 0, but 1
-markers = markers1+1
+markers = markers1 + 1
 
 # Now, mark the region of unknown with zero
-markers[unknown==255] = 0
+markers[unknown == 255] = 0
 
 markers3 = cv2.watershed(img, markers)  # 分水岭算法
-img[markers3 == -1] = [255,0,0]
+img[markers3 == -1] = [255, 0, 0]
 
 cv2.namedWindow("Image")
 cv2.imshow("Image", img)
