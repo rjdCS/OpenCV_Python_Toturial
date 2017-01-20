@@ -64,10 +64,10 @@
       <file leaf-file-name="48.2.2 仅有一个特征的数据.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/48 K 值聚类/48.2.2 仅有一个特征的数据.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+            <state relative-caret-position="488">
+              <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
               <folding>
-                <element signature="e#67#85#0" expanded="true" />
+                <element signature="e#660#678#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -88,8 +88,8 @@
       <file leaf-file-name="48.2.3 颜色量化.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/48 K 值聚类/48.2.3 颜色量化.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="46" column="16" lean-forward="true" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+            <state relative-caret-position="450">
+              <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
               <folding>
                 <element signature="e#231#249#0" expanded="true" />
               </folding>
@@ -196,14 +196,14 @@
         <option value="$PROJECT_DIR$/27 分水岭算法图像分割/27.1 代码.py" />
         <option value="$PROJECT_DIR$/48 K 值聚类/48.2.b 含有多个特征的数据.py" />
         <option value="$PROJECT_DIR$/48 K 值聚类/48.2 OpenCV 中的 K 值聚类.py" />
-        <option value="$PROJECT_DIR$/48 K 值聚类/48.2.2 仅有一个特征的数据.py" />
         <option value="$PROJECT_DIR$/48 K 值聚类/48.2.2b 含有多个特征的数据.py" />
+        <option value="$PROJECT_DIR$/48 K 值聚类/48.2.2 仅有一个特征的数据.py" />
         <option value="$PROJECT_DIR$/48 K 值聚类/48.2.3 颜色量化.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="818" />
+    <option name="x" value="795" />
     <option name="y" value="10" />
     <option name="width" value="1102" />
     <option name="height" value="1008" />
@@ -270,7 +270,7 @@
       <recent name="F:\Python_Demo\OpenCV_Python_Toturial\venv2\Lib\site-packages" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.48.2.3 颜色量化">
+  <component name="RunManager" selected="Python.48.2.2 仅有一个特征的数据">
     <configuration default="false" name="48.2 OpenCV 中的 K 值聚类" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -499,9 +499,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.48.2.3 颜色量化" />
-        <item index="1" class="java.lang.String" itemvalue="Python.48.2.2b 含有多个特征的数据" />
-        <item index="2" class="java.lang.String" itemvalue="Python.48.2.2 仅有一个特征的数据" />
+        <item index="0" class="java.lang.String" itemvalue="Python.48.2.2 仅有一个特征的数据" />
+        <item index="1" class="java.lang.String" itemvalue="Python.48.2.3 颜色量化" />
+        <item index="2" class="java.lang.String" itemvalue="Python.48.2.2b 含有多个特征的数据" />
         <item index="3" class="java.lang.String" itemvalue="Python.48.2.b 含有多个特征的数据" />
         <item index="4" class="java.lang.String" itemvalue="Python.48.2 OpenCV 中的 K 值聚类" />
       </list>
@@ -521,7 +521,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="818" y="10" width="1102" height="1008" extended-state="0" />
+    <frame x="795" y="10" width="1102" height="1008" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29981202" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -814,7 +814,7 @@
         <state relative-caret-position="342">
           <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
           <folding>
-            <element signature="e#9#27#0" expanded="true" />
+            <element signature="e#9#27#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -913,18 +913,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/48 K 值聚类/48.2.2 仅有一个特征的数据.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        <state relative-caret-position="488">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding>
-            <element signature="e#67#85#0" expanded="true" />
+            <element signature="e#660#678#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/48 K 值聚类/48.2.3 颜色量化.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="46" column="16" lean-forward="true" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+        <state relative-caret-position="450">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding>
             <element signature="e#231#249#0" expanded="true" />
           </folding>
