@@ -15,54 +15,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="36.1 OpenCV 中的 ORB 算法.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/36 ORB (Oriented FAST and Rotated BRIEF)/36.1 OpenCV 中的 ORB 算法.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-              <folding>
-                <element signature="e#2#20#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="37.3 匹配器对象是什么.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/37 特征匹配/37.3 匹配器对象是什么.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="618">
-              <caret line="36" column="36" lean-forward="false" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
-              <folding>
-                <element signature="e#208#226#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="27.1 代码.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/27 分水岭算法图像分割/27.1 代码.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="54" column="6" lean-forward="false" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
-              <folding>
-                <element signature="e#87#105#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BackgroundSubtractorKNN.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/41 背景减除/BackgroundSubtractorKNN.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-              <folding>
-                <element signature="e#9#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="46.2.1 手写数字的 OCR.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/46 k近邻/46.2.1 手写数字的 OCR.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,10 +52,46 @@
       <file leaf-file-name="demo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/46 k近邻/demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+            <state relative-caret-position="190">
+              <caret line="10" column="57" lean-forward="true" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
               <folding>
                 <element signature="e#39#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="48.2.2 仅有一个特征的数据.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/48 K 值聚类/48.2.2 仅有一个特征的数据.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+              <folding>
+                <element signature="e#67#85#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="48.2.2b 含有多个特征的数据.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/48 K 值聚类/48.2.2b 含有多个特征的数据.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+              <folding>
+                <element signature="e#2#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="48.2.3 颜色量化.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/48 K 值聚类/48.2.3 颜色量化.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="46" column="16" lean-forward="true" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+              <folding>
+                <element signature="e#231#249#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -160,11 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/7 把鼠标当画笔/查看鼠标事件.py" />
-        <option value="$PROJECT_DIR$/8 用滑动条做调色板/通过调节滑动条来设定画板颜色.py" />
-        <option value="$PROJECT_DIR$/14 几何变换/14.1 扩展缩放.py" />
-        <option value="$PROJECT_DIR$/16 图像平滑/16 图像平滑.py" />
-        <option value="$PROJECT_DIR$/16 图像平滑/16.1 平均.py" />
         <option value="$PROJECT_DIR$/16 图像平滑/16.2 高斯模糊.py" />
         <option value="$PROJECT_DIR$/24 模板匹配/24.1 OpenCV 中的模板匹配.py" />
         <option value="$PROJECT_DIR$/46 k近邻/46.2 使用 kNN 对手写数字 OCR.py" />
@@ -211,13 +194,18 @@
         <option value="$PROJECT_DIR$/37 特征匹配/37.3 匹配器对象是什么.py" />
         <option value="$PROJECT_DIR$/41 背景减除/BackgroundSubtractorKNN.py" />
         <option value="$PROJECT_DIR$/27 分水岭算法图像分割/27.1 代码.py" />
+        <option value="$PROJECT_DIR$/48 K 值聚类/48.2.b 含有多个特征的数据.py" />
+        <option value="$PROJECT_DIR$/48 K 值聚类/48.2 OpenCV 中的 K 值聚类.py" />
+        <option value="$PROJECT_DIR$/48 K 值聚类/48.2.2 仅有一个特征的数据.py" />
+        <option value="$PROJECT_DIR$/48 K 值聚类/48.2.2b 含有多个特征的数据.py" />
+        <option value="$PROJECT_DIR$/48 K 值聚类/48.2.3 颜色量化.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="4" />
-    <option name="width" value="1335" />
+    <option name="x" value="818" />
+    <option name="y" value="10" />
+    <option name="width" value="1102" />
     <option name="height" value="1008" />
   </component>
   <component name="ProjectView">
@@ -235,6 +223,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -258,31 +247,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="37 特征匹配" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OpenCV_Python_Toturial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OpenCV_Python_Toturial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="27 分水岭算法图像分割" />
+              <option name="myItemId" value="48 K 值聚类" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Machine_Learning_in_Action" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -296,88 +270,88 @@
       <recent name="F:\Python_Demo\OpenCV_Python_Toturial\venv2\Lib\site-packages" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.27.1 代码">
-    <configuration default="false" name="47.2 使用 SVM 进行手写数据 OCR" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.48.2.3 颜色量化">
+    <configuration default="false" name="48.2 OpenCV 中的 K 值聚类" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/47 支持向量机" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/48 K 值聚类" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="OpenCV_Python_Toturial" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/47 支持向量机/47.2 使用 SVM 进行手写数据 OCR.py" />
+      <option name="SCRIPT_NAME" value="F:\Python_Demo\OpenCV_Python_Toturial\48 K 值聚类\48.2.2 仅有一个特征的数据.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="37.2 对 ORB 描述符进行蛮力匹配" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="48.2.b 含有多个特征的数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/37 特征匹配" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/48 K 值聚类" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="OpenCV_Python_Toturial" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/37 特征匹配/37.2 对 ORB 描述符进行蛮力匹配.py" />
+      <option name="SCRIPT_NAME" value="F:\Python_Demo\OpenCV_Python_Toturial\48 K 值聚类\48.2.2b 含有多个特征的数据.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="37.3 匹配器对象是什么" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="48.2.2 仅有一个特征的数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/37 特征匹配" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/48 K 值聚类" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="OpenCV_Python_Toturial" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/37 特征匹配/37.3 匹配器对象是什么.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/48 K 值聚类/48.2.2 仅有一个特征的数据.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="BackgroundSubtractorKNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="48.2.2b 含有多个特征的数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/41 背景减除" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/48 K 值聚类" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="OpenCV_Python_Toturial" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/41 背景减除/BackgroundSubtractorKNN.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/48 K 值聚类/48.2.2b 含有多个特征的数据.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="27.1 代码" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="48.2.3 颜色量化" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27 分水岭算法图像分割" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/48 K 值聚类" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="OpenCV_Python_Toturial" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27 分水岭算法图像分割/27.1 代码.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/48 K 值聚类/48.2.3 颜色量化.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -517,19 +491,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.47.2 使用 SVM 进行手写数据 OCR" />
-      <item index="1" class="java.lang.String" itemvalue="Python.37.2 对 ORB 描述符进行蛮力匹配" />
-      <item index="2" class="java.lang.String" itemvalue="Python.37.3 匹配器对象是什么" />
-      <item index="3" class="java.lang.String" itemvalue="Python.BackgroundSubtractorKNN" />
-      <item index="4" class="java.lang.String" itemvalue="Python.27.1 代码" />
+      <item index="0" class="java.lang.String" itemvalue="Python.48.2 OpenCV 中的 K 值聚类" />
+      <item index="1" class="java.lang.String" itemvalue="Python.48.2.b 含有多个特征的数据" />
+      <item index="2" class="java.lang.String" itemvalue="Python.48.2.2 仅有一个特征的数据" />
+      <item index="3" class="java.lang.String" itemvalue="Python.48.2.2b 含有多个特征的数据" />
+      <item index="4" class="java.lang.String" itemvalue="Python.48.2.3 颜色量化" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.27.1 代码" />
-        <item index="1" class="java.lang.String" itemvalue="Python.BackgroundSubtractorKNN" />
-        <item index="2" class="java.lang.String" itemvalue="Python.37.3 匹配器对象是什么" />
-        <item index="3" class="java.lang.String" itemvalue="Python.37.2 对 ORB 描述符进行蛮力匹配" />
-        <item index="4" class="java.lang.String" itemvalue="Python.47.2 使用 SVM 进行手写数据 OCR" />
+        <item index="0" class="java.lang.String" itemvalue="Python.48.2.3 颜色量化" />
+        <item index="1" class="java.lang.String" itemvalue="Python.48.2.2b 含有多个特征的数据" />
+        <item index="2" class="java.lang.String" itemvalue="Python.48.2.2 仅有一个特征的数据" />
+        <item index="3" class="java.lang.String" itemvalue="Python.48.2.b 含有多个特征的数据" />
+        <item index="4" class="java.lang.String" itemvalue="Python.48.2 OpenCV 中的 K 值聚类" />
       </list>
     </recent_temporary>
   </component>
@@ -547,15 +521,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="4" width="1335" height="1008" extended-state="0" />
+    <frame x="818" y="10" width="1102" height="1008" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2459522" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29981202" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19336385" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27803203" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -598,17 +572,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/16 图像平滑/16 图像平滑.py" />
-    <entry file="file://$PROJECT_DIR$/10 图像上的算术运算/10.3 按位运算.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/16 图像平滑/16.1 平均.py" />
-    <entry file="file://$PROJECT_DIR$/16 图像平滑/16.2 高斯模糊.py" />
-    <entry file="file://$PROJECT_DIR$/24 模板匹配/24.1 OpenCV 中的模板匹配.py" />
     <entry file="file://$PROJECT_DIR$/15 图像阈值/15.2 自适应阈值.py" />
     <entry file="file://$PROJECT_DIR$/15 图像阈值/15.1 简单阈值.py" />
     <entry file="file://$PROJECT_DIR$/21 OpenCV 中的轮廓/21.2.7 边界矩形.py" />
@@ -778,26 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <element signature="e#2#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/41 背景减除/41.4 BackgroundSubtractorGMG.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding>
-            <element signature="e#2#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/1798788307/cv2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="2356" column="33" lean-forward="false" selection-start-line="2356" selection-start-column="4" selection-end-line="2356" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -817,40 +760,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/46 k近邻/__init__.py" />
     <entry file="file://$PROJECT_DIR$/46 k近邻/tools/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/46 k近邻/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-          <folding>
-            <element signature="e#39#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/46 k近邻/tools.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/46 k近邻/46.2.2 英文字母的 OCR.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="6" selection-end-column="10" />
-          <folding>
-            <element signature="e#3#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/46 k近邻/46.2.1 手写数字的 OCR.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="43" column="20" lean-forward="false" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
-          <folding>
-            <element signature="e#16#34#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -869,28 +782,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/47 支持向量机/47.1 理解 SVM.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/37 特征匹配/37.2 对 ORB 描述符进行蛮力匹配.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="32" column="46" lean-forward="false" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
-          <folding>
-            <element signature="e#74#92#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/1798788307/cv2/xfeatures2d.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1601">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/37 特征匹配/37.3 匹配器对象是什么.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="36" column="36" lean-forward="false" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+          <folding>
+            <element signature="e#208#226#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27 分水岭算法图像分割/27.1 代码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="e#87#105#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -904,22 +819,114 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/37 特征匹配/37.3 匹配器对象是什么.py">
+    <entry file="file://$PROJECT_DIR$/46 k近邻/46.2.2 英文字母的 OCR.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="618">
-          <caret line="36" column="36" lean-forward="false" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+        <state relative-caret-position="57">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="6" selection-end-column="10" />
           <folding>
-            <element signature="e#208#226#0" expanded="true" />
+            <element signature="e#3#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/27 分水岭算法图像分割/27.1 代码.py">
+    <entry file="file://$PROJECT_DIR$/47 支持向量机/47.1 理解 SVM.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="54" column="6" lean-forward="false" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/41 背景减除/41.4 BackgroundSubtractorGMG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
           <folding>
-            <element signature="e#87#105#0" expanded="true" />
+            <element signature="e#2#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/37 特征匹配/37.2 对 ORB 描述符进行蛮力匹配.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="32" column="46" lean-forward="false" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+          <folding>
+            <element signature="e#74#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/46 k近邻/46.2.1 手写数字的 OCR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="43" column="20" lean-forward="false" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+          <folding>
+            <element signature="e#16#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="3244" column="4" lean-forward="false" selection-start-line="3244" selection-start-column="4" selection-end-line="3244" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/46 k近邻/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="57" lean-forward="true" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+          <folding>
+            <element signature="e#39#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/1798788307/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="2988" column="4" lean-forward="false" selection-start-line="2988" selection-start-column="4" selection-end-line="2988" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/1798788307/sys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="256" column="38" lean-forward="false" selection-start-line="256" selection-start-column="33" selection-end-line="256" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/48 K 值聚类/48.2.2b 含有多个特征的数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding>
+            <element signature="e#2#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/48 K 值聚类/48.2.2 仅有一个特征的数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <element signature="e#67#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/48 K 值聚类/48.2.3 颜色量化.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="46" column="16" lean-forward="true" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+          <folding>
+            <element signature="e#231#249#0" expanded="true" />
           </folding>
         </state>
       </provider>
