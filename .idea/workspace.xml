@@ -18,22 +18,10 @@
       <file leaf-file-name="46.2.1 手写数字的 OCR.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/46 k近邻/46.2.1 手写数字的 OCR.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="779">
+            <state relative-caret-position="0">
               <caret line="43" column="20" lean-forward="false" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
               <folding>
                 <element signature="e#16#34#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="46.2.2 英文字母的 OCR.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/46 k近邻/46.2.2 英文字母的 OCR.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="6" selection-end-column="10" />
-              <folding>
-                <element signature="e#3#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -52,8 +40,8 @@
       <file leaf-file-name="demo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/46 k近邻/demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="57" lean-forward="true" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+            <state relative-caret-position="152">
+              <caret line="10" column="57" lean-forward="false" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
               <folding>
                 <element signature="e#39#49#0" expanded="true" />
               </folding>
@@ -64,8 +52,8 @@
       <file leaf-file-name="48.2.2 仅有一个特征的数据.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/48 K 值聚类/48.2.2 仅有一个特征的数据.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="488">
-              <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+            <state relative-caret-position="275">
+              <caret line="36" column="26" lean-forward="false" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
               <folding>
                 <element signature="e#660#678#0" expanded="true" />
               </folding>
@@ -76,7 +64,7 @@
       <file leaf-file-name="48.2.2b 含有多个特征的数据.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/48 K 值聚类/48.2.2b 含有多个特征的数据.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
+            <state relative-caret-position="209">
               <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
               <folding>
                 <element signature="e#2#20#0" expanded="true" />
@@ -85,13 +73,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="48.2.3 颜色量化.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="48.2.3 颜色量化.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/48 K 值聚类/48.2.3 颜色量化.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+            <state relative-caret-position="355">
+              <caret line="35" column="26" lean-forward="false" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
               <folding>
                 <element signature="e#231#249#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="51.2 OpenCV 中的 Haar 级联检测.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/51 使用 Haar 分类器进行面部检测/51.2 OpenCV 中的 Haar 级联检测.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+              <folding>
+                <element signature="e#16#34#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -112,8 +112,8 @@
       <file leaf-file-name="37.2 对 ORB 描述符进行蛮力匹配.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/37 特征匹配/37.2 对 ORB 描述符进行蛮力匹配.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="32" column="46" lean-forward="false" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+            <state relative-caret-position="608">
+              <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
               <folding>
                 <element signature="e#74#92#0" expanded="true" />
               </folding>
@@ -171,7 +171,6 @@
         <option value="$PROJECT_DIR$/9 图像的基础操作/9.3 图像ROI.py" />
         <option value="$PROJECT_DIR$/9 图像的基础操作/9.4 拆分及合并图像通道.py" />
         <option value="$PROJECT_DIR$/7 把鼠标当画笔/在双击过的地方绘制一个圆圈.py" />
-        <option value="$PROJECT_DIR$/51 使用 Haar 分类器进行面部检测/51.2 OpenCV 中的 Haar 级联检测.py" />
         <option value="$PROJECT_DIR$/30 Harris 角点检测/30.1 OpenCV 中的 Harris 角点检测.py" />
         <option value="$PROJECT_DIR$/31 Shi-Tomasi 角点检测 &amp; 适合于跟踪的图像特 征/31 Shi-Tomasi 角点检测 &amp; 适合于跟踪的图像特 征.py" />
         <option value="$PROJECT_DIR$/packet/安装说明.txt" />
@@ -190,21 +189,22 @@
         <option value="$PROJECT_DIR$/46 k近邻/46.2.2 英文字母的 OCR.py" />
         <option value="$PROJECT_DIR$/47 支持向量机/47.1 理解 SVM.py" />
         <option value="$PROJECT_DIR$/47 支持向量机/47.2 使用 SVM 进行手写数据 OCR.py" />
-        <option value="$PROJECT_DIR$/37 特征匹配/37.2 对 ORB 描述符进行蛮力匹配.py" />
         <option value="$PROJECT_DIR$/37 特征匹配/37.3 匹配器对象是什么.py" />
         <option value="$PROJECT_DIR$/41 背景减除/BackgroundSubtractorKNN.py" />
         <option value="$PROJECT_DIR$/27 分水岭算法图像分割/27.1 代码.py" />
         <option value="$PROJECT_DIR$/48 K 值聚类/48.2.b 含有多个特征的数据.py" />
         <option value="$PROJECT_DIR$/48 K 值聚类/48.2 OpenCV 中的 K 值聚类.py" />
-        <option value="$PROJECT_DIR$/48 K 值聚类/48.2.2b 含有多个特征的数据.py" />
         <option value="$PROJECT_DIR$/48 K 值聚类/48.2.2 仅有一个特征的数据.py" />
+        <option value="$PROJECT_DIR$/37 特征匹配/37.2 对 ORB 描述符进行蛮力匹配.py" />
+        <option value="$PROJECT_DIR$/48 K 值聚类/48.2.2b 含有多个特征的数据.py" />
         <option value="$PROJECT_DIR$/48 K 值聚类/48.2.3 颜色量化.py" />
+        <option value="$PROJECT_DIR$/51 使用 Haar 分类器进行面部检测/51.2 OpenCV 中的 Haar 级联检测.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="795" />
-    <option name="y" value="10" />
+    <option name="x" value="804" />
+    <option name="y" value="20" />
     <option name="width" value="1102" />
     <option name="height" value="1008" />
   </component>
@@ -223,7 +223,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -237,26 +236,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OpenCV_Python_Toturial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OpenCV_Python_Toturial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="48 K 值聚类" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Machine_Learning_in_Action" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Learning_OpenCV_3_Computer_Vision_with_Python_v2" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -521,7 +507,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="795" y="10" width="1102" height="1008" extended-state="0" />
+    <frame x="804" y="20" width="1102" height="1008" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29981202" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -572,7 +558,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/15 图像阈值/15.2 自适应阈值.py" />
     <entry file="file://$PROJECT_DIR$/15 图像阈值/15.1 简单阈值.py" />
     <entry file="file://$PROJECT_DIR$/21 OpenCV 中的轮廓/21.2.7 边界矩形.py" />
     <entry file="file://$PROJECT_DIR$/10 图像上的算术运算/10.2 图像混合.py">
@@ -636,13 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/25 Hough 直线变换/25.1 OpenCV 中的霍夫变换.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -716,13 +694,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/51 使用 Haar 分类器进行面部检测/51.2 OpenCV 中的 Haar 级联检测.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/19 Canny 边缘检测/19.2 OpenCV 中的 Canny 边界检测.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-27">
@@ -793,9 +764,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="36" column="36" lean-forward="false" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
-          <folding>
-            <element signature="e#208#226#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -803,9 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
           <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding>
-            <element signature="e#87#105#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -813,9 +778,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <element signature="e#9#27#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -824,7 +786,7 @@
         <state relative-caret-position="57">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="6" selection-end-column="10" />
           <folding>
-            <element signature="e#3#13#0" expanded="true" />
+            <element signature="e#3#13#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -834,6 +796,47 @@
         <state relative-caret-position="95">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/46 k近邻/46.2.1 手写数字的 OCR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="43" column="20" lean-forward="false" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+          <folding>
+            <element signature="e#16#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="3244" column="4" lean-forward="false" selection-start-line="3244" selection-start-column="4" selection-end-line="3244" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/46 k近邻/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="57" lean-forward="false" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+          <folding>
+            <element signature="e#39#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/1798788307/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="2988" column="4" lean-forward="false" selection-start-line="2988" selection-start-column="4" selection-end-line="2988" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/1798788307/sys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="256" column="38" lean-forward="false" selection-start-line="256" selection-start-column="33" selection-end-line="256" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -847,63 +850,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/25 Hough 直线变换/25.1 OpenCV 中的霍夫变换.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23 图像变换/23.1.1 Numpy 中的傅里叶变换.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-67">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/48 K 值聚类/48.2.2 仅有一个特征的数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="36" column="26" lean-forward="false" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+          <folding>
+            <element signature="e#660#678#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/37 特征匹配/37.2 对 ORB 描述符进行蛮力匹配.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="32" column="46" lean-forward="false" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+        <state relative-caret-position="608">
+          <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
           <folding>
             <element signature="e#74#92#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/46 k近邻/46.2.1 手写数字的 OCR.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="43" column="20" lean-forward="false" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
-          <folding>
-            <element signature="e#16#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/matplotlib/pyplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="3244" column="4" lean-forward="false" selection-start-line="3244" selection-start-column="4" selection-end-line="3244" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/46 k近邻/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="57" lean-forward="true" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
-          <folding>
-            <element signature="e#39#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/1798788307/cv2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="2988" column="4" lean-forward="false" selection-start-line="2988" selection-start-column="4" selection-end-line="2988" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/1798788307/sys.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="256" column="38" lean-forward="false" selection-start-line="256" selection-start-column="33" selection-end-line="256" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/48 K 值聚类/48.2.2b 含有多个特征的数据.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
+        <state relative-caret-position="209">
           <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
           <folding>
             <element signature="e#2#20#0" expanded="true" />
@@ -911,22 +896,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/48 K 值聚类/48.2.2 仅有一个特征的数据.py">
+    <entry file="file://$PROJECT_DIR$/48 K 值聚类/48.2.3 颜色量化.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+        <state relative-caret-position="355">
+          <caret line="35" column="26" lean-forward="false" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
           <folding>
-            <element signature="e#660#678#0" expanded="true" />
+            <element signature="e#231#249#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/48 K 值聚类/48.2.3 颜色量化.py">
+    <entry file="file://$PROJECT_DIR$/51 使用 Haar 分类器进行面部检测/51.2 OpenCV 中的 Haar 级联检测.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state relative-caret-position="209">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
           <folding>
-            <element signature="e#231#249#0" expanded="true" />
+            <element signature="e#16#34#0" expanded="true" />
           </folding>
         </state>
       </provider>

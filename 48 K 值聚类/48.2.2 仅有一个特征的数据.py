@@ -27,7 +27,8 @@ import numpy as np
 import cv2
 from matplotlib import pyplot as plt
 
-x = np.random.randint(25, 100, 25)
+
+x = np.random.randint(25, 100, 25)  # 生成的随机数n: 25 <= n <= 100
 y = np.random.randint(175, 255, 25)
 z = np.hstack((x, y))
 z = z.reshape((50, 1))
